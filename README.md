@@ -1,0 +1,2 @@
+# simulador-politico-legislativo-e-governabilidade
+Aplicação web interativa em um único arquivo HTML (contendo HTML estruturado, CSS moderno/responsivo com Tailwind via CDN e lógica em JavaScript puro) que simula o Poder Legislativo Federal (Câmara dos Deputados e Senado Federal) com partidos políticos fictícios, há simulação de votações e governança. Seguem o Regimento das Casas e há fundo legal.
